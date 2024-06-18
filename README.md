@@ -1,2 +1,2 @@
 # gitdemo
-first repository
+first repository of git remote demo 
